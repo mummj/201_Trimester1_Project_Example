@@ -19,3 +19,7 @@
 ####  http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
+
+#### http://w3schools.com/jsref/deault.asp Copyright 1999-2021 by Refsnes Data. All Rights Reserved.                             W3Schools is Powered by W3.CSS.
+
+#### developer.mozilla.org/en-US/docs/Web/HTML/Reference © 2005-2021 Mozilla and individual contributors. Content is available under these licenses.
